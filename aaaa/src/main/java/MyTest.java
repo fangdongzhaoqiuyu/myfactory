@@ -18,4 +18,9 @@ public class MyTest {
         return 1;
     }
 
+    public String aaa(){
+
+        return "";
+
+    }
 }
