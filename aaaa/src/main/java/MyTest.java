@@ -9,4 +9,8 @@ public class MyTest {
 
         return "";
     }
+
+    public int getcount(){
+        return 0;
+    }
 }
