@@ -13,4 +13,9 @@ public class MyTest {
     public int getcount(){
         return 0;
     }
+
+    public int getnumber(){
+        return 1;
+    }
+
 }
